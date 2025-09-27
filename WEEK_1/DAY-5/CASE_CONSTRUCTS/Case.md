@@ -1,6 +1,6 @@
 
 
-# Case Statements
+# ![alt text](image.png)Case Statements
 
 ![Status](https://img.shields.io/badge/Day-5-FFDAC1?style=for-the-badge)
 ![Topic](https://img.shields.io/badge/Topic-Case_Statements-AEC6CF?style=flat-square)
@@ -162,14 +162,4 @@ endmodule
 * **Simulation vs Synthesis:** Always verify **all branches and outputs** to ensure correctness.
 
 ---
-
-Images to attach:
-
-* `sim1.png`, `syn1.png` → Incomplete Case
-* `sim2.png`, `syn2.png` → Complete Case
-* `sim3.png`, `syn3.png` → Partial Case
-* `sim4.png`, `syn4.png` → Bad Case
-
----
-
 
