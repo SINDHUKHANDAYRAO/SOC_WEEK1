@@ -3,7 +3,7 @@
 # Day-4 – Gate-Level Simulation (GLS)
 
 ![Status](https://img.shields.io/badge/Day-4-FFDAC1?style=for-the-badge)
-![Topic](https://img.shields.io/badge/Topic-Gate-Level_Simulation-AEC6CF?style=flat-square)
+
 
 ---
 
