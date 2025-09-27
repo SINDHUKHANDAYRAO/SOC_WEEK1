@@ -276,4 +276,4 @@ endmodule
 
 
 ![Synthesis](syn7.png)
-![Simulation](sim7.png)
+![Simulation](sim7.png)![alt text](image.png)
